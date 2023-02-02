@@ -1,8 +1,8 @@
 {
-    "url": "https://advv1dkf.x1.pe/swagger/swagger.yaml",
+    "url": "https://raw.githubusercontent.com/Salman0x01/swagger-dom/main/test.yamll",
     "urls": [
         {
-            "url": "https://advv1dkf.x1.pe/swagger/swagger.yaml",
+            "url": "https://raw.githubusercontent.com/Salman0x01/swagger-dom/main/test.yaml",
             "name": "Foo"
         }
     ]
