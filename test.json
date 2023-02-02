@@ -1,0 +1,9 @@
+{
+    "url": "https://advv1dkf.x1.pe/swagger/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://advv1dkf.x1.pe/swagger/swagger.yaml",
+            "name": "Foo"
+        }
+    ]
+}
