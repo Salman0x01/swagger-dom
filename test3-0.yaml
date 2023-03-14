@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Example API
   version: 1.0.0
-  description: This is an example API<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>.
+  description: This isa an example API<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>.
 paths:
   /users:
     get:
